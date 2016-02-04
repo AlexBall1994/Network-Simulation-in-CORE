@@ -1,4 +1,3 @@
-syntax is:
-ruby node.rb <config file> <hostname>
-
-it should be basically the same as everyone else's project...
+This was the code I wrote for a sample network in CORE.
+Each node (computer) in the network is capable of a few basic protocols such as: Sending messages to each other, pinging, FTP (file transfer protocol)
+POST/ADVERTISE, ClockSync between all nodes as well as removing blackholes from the network.  Pathing is based off of the Link State Routing protocol.  
