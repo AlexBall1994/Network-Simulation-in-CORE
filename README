@@ -1,0 +1,4 @@
+syntax is:
+ruby node.rb <config file> <hostname>
+
+it should be basically the same as everyone else's project...

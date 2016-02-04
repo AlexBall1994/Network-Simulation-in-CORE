@@ -1,0 +1,15 @@
+#path to nodes file
+nodes=nodes.txt
+
+#path to weights file
+weights=weights.csv
+
+#path to functions
+functions=functions.rb
+
+#update interval
+updateInterval=5
+
+maxPacketSize=4096
+
+pingTimeout=3
